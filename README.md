@@ -11,5 +11,8 @@ Projeto de uma calculadora modular desenvolvida em Java, focada na aplicação p
 * Java (JDK 11+)
 * Princípios de Clean Code e POO
 
----
-*Desenvolvido por [Seu Nome]*
+### 🏁 Como Executar
+1. Certifique-se de ter o JDK instalado.
+2. Compile o projeto:
+   ```bash
+   javac AppCalc.java
